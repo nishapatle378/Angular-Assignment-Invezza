@@ -1,0 +1,35 @@
+
+.divbtn{
+    /* position: relative;
+    top: 5rem; */
+    text-align: -webkit-center !important;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 6px;
+}
+
+.heading{
+    position: relative;
+    top: 2rem;
+    text-align: -webkit-center !important;
+}
+.rightDiv{
+    position: relative;
+    top: 11rem;
+}
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+

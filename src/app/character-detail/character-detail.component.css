@@ -1,0 +1,29 @@
+
+
+.TableBorder{
+    /* border: 4px solid #d1d4d6; */
+    margin: 0 0 20px;
+    overflow: hidden;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgb(209 114 119 / 38%) 0px 0px 0px 3px;
+}
+
+.table th, .table td{
+padding: 8px;
+    line-height: 30px;
+    text-align: left;
+    vertical-align: middle;
+    border-top: 1px solid #d1d4d6;
+    color:darkred;
+}
+
+    .TableBorder tr:nth-child(even) th, .TableBorder tr:nth-child(even) td {
+    background-color: #ecedee;
+    
+
+    }
+    .image-icon{
+        box-shadow: rgb(209 114 119 / 38%) 0px 0px 0px 3px;
+        width: -webkit-fill-available;
+
+    }

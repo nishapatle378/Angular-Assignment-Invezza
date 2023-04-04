@@ -1,0 +1,37 @@
+
+/* .tableDiv{
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+} */
+.mat-row:nth-child(even){
+    background-color:ivory;
+}
+        
+.mat-row:nth-child(odd){
+    background-color:snow;
+}
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+ th{
+color:#fff;
+background-color: #e70b82;
+}
+td{
+    cursor: pointer;
+}
+  .my-table {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+ 

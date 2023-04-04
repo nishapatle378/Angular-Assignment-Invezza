@@ -1,0 +1,12 @@
+{
+  "/api/*": {
+    "target": "https://comicvine.gamespot.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "headers": {
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
+  
